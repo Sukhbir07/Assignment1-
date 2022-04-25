@@ -24,4 +24,3 @@ marks of studentE : 93
 [21, 33, 34, 78, 93]
 ['red', 'Green', 'White', 'Pink', 'Yellow']
 ['red', 'Green', 'White', 'Purple', 'Purple', 'Yellow']
-PS C:\Users\lenovo>
