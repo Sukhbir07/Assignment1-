@@ -1,0 +1,27 @@
+Windows PowerShell
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\lenovo> & C:/Users/lenovo/AppData/Local/Programs/Python/Python310/python.exe d:/PYTHON/assignment1.pyTHON/assignment1.py
+Enter First Number : 10
+Enter Second Number : 20
+Enter Third Number : 30
+Average of three number is :  20.0
+Enter the Gross Income : 40000
+Enter Dependent : 2
+Your income tax :  4800.0
+Enter SID:21102087
+Enter name:Sukhbir Singh
+Enter Gender:Male
+Enter course name:Civil
+Enter CGPA :8.9
+['21102087', 'Sukhbir Singh', 'Male', 'Civil', 8.9]
+marks of studentA : 21
+marks of studentB : 34
+marks of studentC : 33
+marks of studentD : 78
+marks of studentE : 93
+[21, 33, 34, 78, 93]
+['red', 'Green', 'White', 'Pink', 'Yellow']
+['red', 'Green', 'White', 'Purple', 'Purple', 'Yellow']
+PS C:\Users\lenovo>
