@@ -39,7 +39,7 @@ print("\t Question 2")
 # Initializing the variables.
 name = "Sukhbir Singh"
 sid = 21102087
-deparment_name = "Civil"
+department_name = "Civil"
 cgpa = 9.9
 
 # string formating using format function.
