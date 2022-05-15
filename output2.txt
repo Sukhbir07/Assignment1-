@@ -41,4 +41,5 @@ Enter the length of second side: 3
 Enter the length of third side: 4
 
 Yes
+       Question 6
 3
