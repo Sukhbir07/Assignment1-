@@ -1,0 +1,44 @@
+PS D:\PYTHON\HELLO.PY> & C:/Users/lenovo/AppData/Local/Programs/Python/Python310/python.exe d:/PYTHON/HELLO.PY/assignment2.py
+         Question 1
+Part a
+35
+
+Part b
+egaugnal evitisnes esac a si nohtyP
+
+Part c
+a case sensitive
+
+Part d
+Python is object oriented language
+
+part e
+10
+
+part f
+Pythonisacasesensitivelanguage
+
+         Question 2
+Hey,Sukhbir Singh Here!
+MY SID is 21102087
+I am form Civil department and my CGPA is 9.9
+
+         Question 3
+The valus of a&b is  8
+The valus of a|b is  58
+The valus of a^b is  50
+The value after left shift of a and b by 2 bits is  224  and  40 respectively
+The value after right shift of a by 2 bits and b with 4 bits is  14  and  0 respectively
+
+         Question 4
+Enter the string: My name is Sukhbir Singh 
+
+Yes
+
+         Question 5
+Enter the length of first side: 2
+Enter the length of second side: 3
+Enter the length of third side: 4
+
+Yes
+3
