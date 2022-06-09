@@ -1,0 +1,49 @@
+QUESTION 1
+
+ENTER A NUMBER : 5 
+the binary number is : 101
+
+QUESTION 2
+
+Please select the type of operation you want to perform:
++ for addition
+- for subtraction
+* for multiplication
+/ for division
+*
+Enter your first number: 5
+Enter your second number: 6
+5 * 6 = 
+30
+
+QUESTION 3
+
+3(a.)
+ (3+4)*5
+
+question 3(b.)
+ n*(n-1)/2
+
+question 3(c.)
+ 4*math.pi*r**2
+
+question 3(d.)
+ math.sqrt(r*(math.cos(a))*2+r(math.sin(a))**2)
+
+question 3(e.)
+ (y2-y1)/(x2-x1)
+
+QUESTION 4
+
+0 1 2 3 4
+3 4 5 6 7 8 9
+4 7 10
+15 13 11 9 7
+
+
+QUESTION 5
+
+Carbon Atoms -> 5
+Hydrogen Atoms -> 6
+Oxygen Atoms -> 7
+The Molecular weight of the compound is -> 178.09694000000002
