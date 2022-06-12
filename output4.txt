@@ -1,0 +1,25 @@
+Enter Marks :60
+ Grade B 
+Enter a year: 2024
+year is a Leap Year
+Question 1:3X3=9
+Right!
+Question 2:7X4=28
+Right!
+Question 3:9X10=90
+Right!
+Question 4:10X3=30
+Right!
+Question 5:2X6=15
+Wrong.The right answer is 12
+Question 6:10X1=10
+Right!
+Question 7:5X2=15
+Wrong.The right answer is 10
+Question 8:5X1=5
+Right!
+Question 9:10X6=60
+Right!
+Question 10:10X5=40
+Wrong.The right answer is 50
+177 candies are in the bowl!
