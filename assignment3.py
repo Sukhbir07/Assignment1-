@@ -2,11 +2,17 @@ print("QUESTION 1")
 print()
 # Python program to convert Decimal to Binary Number
 
-number = int(input("ENTER A NUMBER : "))
+decimal= int(input("enter the decimal number:"))
+binary= 0
+power= 0
+re_dec= decimal
 
-print("the binary number is :", bin(number)[2::]) # using the inbuilt function
+while re_dec>=1:
+    binary= ((re_dec%2)*(10**power))+binary
+    re_dec= int(re_dec/2)
+    power+=1
 
-print()
+print(f"Binary of {decimal} is {binary}")
 
 print("QUESTION 2")
 print()
