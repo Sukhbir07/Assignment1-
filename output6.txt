@@ -1,0 +1,50 @@
+Q1
+Write a number : 55
+False
+
+Q2
+sukhbir
+NO, its not palindrome
+
+Q3
+[1]
+[1, 1]
+[1, 2, 1]
+[1, 3, 3, 1]
+[1, 4, 6, 4, 1]
+[1, 5, 10, 10, 5, 1]
+
+Q4
+Sentence: the quick brown fox jumps over the lazy dog
+True
+
+Q5
+sukhbir-white-great-coder
+coder-great-sukhbir-white
+
+Q6
+Student ID: PEC12
+Student Name: $ Ian Bell
+
+Student ID: PEC12
+Student Name: $ Ian Bell
+
+Student Name: $ Ian Bell
+Student Class: $ V
+
+Q7
+True
+False
+True
+False
+
+Q8
+Check whether the said classes are subclasses of the built-in object class or not
+True
+True
+-10 2 8
+-7 -3 10
+
+Q9
+enter : "(){}[]" 
+"(){}[]" - is Unbalanced
